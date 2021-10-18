@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "cypress": "^3.6.0",
+    "cypress-xpath": "^1.6.2",
     "mocha": "^9.1.2"
   },
   "devDependencies": {},
